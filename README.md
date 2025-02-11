@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science and Cyber Security
 - 🌱 I’m currently learning Reverse Engineering and Malware Analysis
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me, don't
+- 📫 How to reach me, rekka69[at]proton[.]me
 
 <!---
 rekka69/rekka69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
