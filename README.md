@@ -22,10 +22,8 @@
 
 ## Extra
 
-<details>
-  <summary>Anime</summary>
-  <img src="/metrics.anilist.svg">
-</details>
+<img src="/metrics.anilist.svg">
+
   
 
 
