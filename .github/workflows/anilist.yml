@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: anime.svg
           # AniList plugin
           plugin_anilist: yes
           plugin_anilist_medias: anime
