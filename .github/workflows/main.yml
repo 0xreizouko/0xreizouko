@@ -18,6 +18,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
   anilist:
       runs-on: ubuntu-latest
       environment: 
