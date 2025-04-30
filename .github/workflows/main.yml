@@ -18,4 +18,11 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+           # AniList plugin
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_user: rekka69
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 4
+
 
