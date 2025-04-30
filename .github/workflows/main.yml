@@ -20,11 +20,15 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
   anilist:
       runs-on: ubuntu-latest
+      environment: 
+        name: Metrics
+      permissions:
+        contents: write
       steps:
         - uses: lowlighter/metrics@latest
           with:
             filename: metrics.anilist.svg
-            token: NOT_NEEDED
+            token: ${{ secrets.METRICS_TOKEN }}
             base: ""
             plugin_anilist: yes
             plugin_anilist_medias: anime
