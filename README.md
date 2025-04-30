@@ -1,7 +1,7 @@
 
 # こんにちは！
 <div>
-<img align="right" src="/metrics.svg">
+<img align="right" src="/metrics.svg" width="49%">
 
 - 👋 Hi, I’m @rekka69.  
 - 👀 I’m interested in Computer Science and Cyber Security.  
