@@ -26,8 +26,8 @@
 よろしくお願いします。
 
 <p align="center">
-  <img src="/metrics.anilist.svg" width="49%">
   <img src="/metrics.svg" width="49%">
+  <img src="/metrics.anilist.svg" width="49%">
 </p>
 
 <!---
