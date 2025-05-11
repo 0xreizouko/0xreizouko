@@ -2,7 +2,7 @@
 # こんにちは！
 <div>
 <img align="right" src="/metrics.svg">
-
+  
 - 👋 Hi, I’m @rekka69.  
 - 👀 I’m interested in Computer Science and Cyber Security.  
 - 🌱 I’m currently learning Red Teaming and Reverse Engineering.  
@@ -15,6 +15,10 @@
 - 💡 Always asking: "How does this actually work under the hood?" 
 - 📫 How to reach me, rekka69[at]proton[.]me
 
+
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/0xreizouko.png" alt="thm" />
+
+
 よろしくお願いします。
 
 </div>
@@ -23,9 +27,6 @@
 ## Extra
 
 <img src="/metrics.anilist.svg">
-
-  
-
 
 <!---
 rekka69/rekka69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
