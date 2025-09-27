@@ -3,7 +3,7 @@
 <div>
 <img align="right" src="/metrics.svg">
   
-- 👋 Hi, I’m @rekka69.  
+- 👋 Hi, I’m @0xreizouko.  
 - 👀 I’m interested in Computer Science and Cyber Security.  
 - 🌱 I’m currently learning Red Teaming and Reverse Engineering.  
 - 🐱‍👤 Building Japanese learning software.  
@@ -13,7 +13,7 @@
 - 📚 Believer in learning by breaking things and fixing them twice.  
 - 🔐 Passionate about privacy, encryption, and offensive security.  
 - 💡 Always asking: "How does this actually work under the hood?" 
-- 📫 How to reach me, rekka69[at]proton[.]me
+- 📫 How to reach me, bakr256[at]proton[.]me
 
 
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/0xreizouko.png" alt="thm" />
