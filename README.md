@@ -13,7 +13,7 @@
 - 📚 Believer in learning by breaking things and fixing them twice.  
 - 🔐 Passionate about privacy, encryption, and offensive security.  
 - 💡 Always asking: "How does this actually work under the hood?" 
-- 📫 How to reach me, bakr256[at]proton[.]me
+- 📫 How to reach me, contact[at]reizouko[.]me
 
 
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/0xreizouko.png" alt="thm" />
