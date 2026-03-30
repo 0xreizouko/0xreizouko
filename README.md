@@ -7,8 +7,7 @@
 - 👀 I’m interested in Computer Science and Cyber Security.  
 - 🌱 I’m currently learning Red Teaming and Reverse Engineering.  
 - 🐱‍👤 Building Japanese learning software.  
-- 🎉 Created HENTAI stack.
-- 🧠 Exploring Quantum Computing and AI for future research.  
+- 🧠 Exploring Quantum Computing for future research.  
 - 🛠️ Often prototyping tools nobody asked for.  
 - 📚 Believer in learning by breaking things and fixing them twice.  
 - 🔐 Passionate about privacy, encryption, and offensive security.  
